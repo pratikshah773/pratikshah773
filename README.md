@@ -11,7 +11,7 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">&nbsp;Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,12 +36,10 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-[
-https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"](https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-<a href="https://github.com/manas1803">
-  <img height="180em" src="[
-https://github-readme-stats-eight-theta.vercel.app/api?username=manas1803&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"](https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) alt="manas"/>
+
+<a href="https://github.com/pratikshah773">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="pratik"/>
   <br />
   <br />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratikshah773&layout=compact&langs_count=8&theme=algolia%22%20alt=%22pratik%22"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratikshah773&layout=compact&langs_count=8&theme=algolia" alt="pratik"/>
   <br />
