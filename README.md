@@ -1,11 +1,11 @@
-# Hi, I'm Manas Pant (💻💖☕)
+# Hi, I'm Pratik Shah (💻💖☕)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>&nbsp;About Me
 
 💡 &nbsp; I'm a software developer and researcher at Deloitte.
-🎓&nbsp;I graduated from GB Pant University of Agriculture and Technology, Pantnagar (B.Tech, Computer Science and Engineering, Batch of 2019).\
+🎓&nbsp;I graduated from Christian college of Engineering , (Batch of 2019).\
 🌱 &nbsp;I'm on track for learning more about Frontend Technologies.\
-✍️ &nbsp;In my free time, I play chess, badminton and LAN games.\
+✍️ &nbsp;In my free time, I watch movies,play badminton and LAN games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the frontend related topics!
 💬 &nbsp;I am open to any recommendation and suggestions.
 
@@ -36,10 +36,12 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+[
+https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"](https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <a href="https://github.com/manas1803">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manas1803&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="manas"/>
+  <img height="180em" src="[
+https://github-readme-stats-eight-theta.vercel.app/api?username=manas1803&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"](https://github-readme-stats-eight-theta.vercel.app/api?username=pratikshah773&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) alt="manas"/>
   <br />
   <br />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manas1803&layout=compact&langs_count=8&theme=algolia" alt="manas"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratikshah773&layout=compact&langs_count=8&theme=algolia%22%20alt=%22pratik%22"/>
   <br />
